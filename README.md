@@ -1,9 +1,9 @@
 Olá! Eu sou o Geovani Ferreira | Data Analyst | Dev Full-Stack
 
 - 💻 Atualmente trabalhando com Desenvolvimento Low Code
-- 📚 Estudando Administração de Bancos de Dados e Engenharia de Dados
+- 📚 Estudante de: Administração de Bancos de Dados e Engenharia de Dados
 - 🏅 Formação Acadêmica: Administração e Gestão
-- 🏅 Fundamentos de Negócios - Harvard MenageMentor
+- 🏅 Certificação: Fundamentos de Negócios - Harvard MenageMentor
 
 <a href="">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirageovani&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
