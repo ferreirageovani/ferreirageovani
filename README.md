@@ -1,7 +1,7 @@
 Olá! Eu sou o Geovani Ferreira | Data Analyst | Dev Full-Stack
 
 - 💻 Atualmente trabalhando com Desenvolvimento Low Code
-- 📚 Estudante de Administração de Bancos de Dados e Engenharia de Dados
+- 📚 Pós Graduado em Administração de Bancos de Dados e Engenharia de Dados
 - 🏅 Formação Acadêmica: Administração e Gestão
 - 🏅 Certificação: Fundamentos de Negócios - Harvard MenageMentor
 
